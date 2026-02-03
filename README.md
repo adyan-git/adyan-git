@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **:Clean code is my love language.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
